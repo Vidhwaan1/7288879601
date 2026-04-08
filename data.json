@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "firstName": "Maheshbabu",
+  "lastName": "Manchikalapati",
+  "phone": "7288879601",
+  "profession": "Engineer",
+  "location": {
+    "state": "andhra-pradesh",
+    "district": "prakasam",
+    "subdistrict": "kondapi",
+    "village": "kuppalapadu-kondapi-prakasam-andhra-pradesh-523279"
+  },
+  "gallery": [],
+  "videos": [],
+  "village": "kuppalapadu-kondapi-prakasam-andhra-pradesh-523279",
+  "about": "",
+  "social": []
+}
